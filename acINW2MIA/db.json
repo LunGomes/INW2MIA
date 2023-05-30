@@ -1,0 +1,27 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Esmaltes",
+    "estoque": 10,
+    "valor": 27,
+    "imagem":"./assets/kitEsmalte.png"
+    },
+    {
+    "id": 2,
+    "descricao": "Kit de Shampoos",
+    "estoque": 10,
+    "valor": 34,
+    "imagem" : "./assets/shampoos.png"
+    },
+    {
+    "id": 3,
+    "descricao": "Chapinha",
+    "estoque": 10,
+    "valor": 110,
+    "imagem" : "./assets/chapaQuente.png"
+    }
+    ]
+   }
+
+
